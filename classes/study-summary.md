@@ -132,7 +132,27 @@
 
 ### A Genética de Pigmentos Visuais
 
+1. As sequências de aminoácidos para os pigmentos de cor vermelha e verde são 96% idênticos, enquanto os aminoácidos dos pigmentos para a cor azul e da rodopsina (pigmento dos bastonetes) são mais distantes geneticamente.
+
 ### A Teoria de Hering
+
+1. Hering propôs que existem três processos oponentes no cérebro, olho, ou os dois: oponência azul-amarelo, vermelho-verde e branco-preto.
+2. Nessa teoria, amarelo, azul, vermelho e verde seriam consideradas "cores primárias", sendo bases para a composição de outras cores, como o laranja (amarelo + vermelho) ou o violeta (azul + vermelho).
+3. Como visto anteriormente, a oponência branco-preto é um fenômeno espacial, codificado nos campos receptivos centro-ligados e centro-desligados. A oponência cromática, por outro lado, não depende dessa dinâmica centro-periferia.
+4. Essa teoria de dinâmica de oponência consegue explicar cores que não estão presentes no arco-íris, como por exemplo o marrom, que surge quando um laranja ou amarelo (idenntificado pela oponencia amarelo-azul e vermelho-verde) se encontra em um ambiente o qual seus arredores são mais claros (identificado pela oponência espacial branco-preto), fenômeno psicológico que decorre da mistura desses sistemas de oponência.
+![alt text](imagens/oponencia-marrom-1.png)
+![alt text](imagens/oponencia-marrom-2.png)
+5. Por muito tempo as teorias de young-helmholtz e hering foram rivais, porém as duas se mostravam corretas. Enquanto a teoria de Young-Helmholtz descrevia a dinâmica a nível de receptores, a teoria de Hering descrevia a dinâmica nos processos subsequentes de recepção de luz a nível nervoso.
+
+### Cor e a Variável Espacial
+
+1. O fenômeno de constância de cor é quando, independente dos comprimentos de onda incidindo sobre uma peça de cor específica, essa cor irá ser compreendida como psicologicamente a mesma.
+2. A oponência de cor, afinal, também depende de sua localização, como, por exemplo, oponência vermelho-verde central, ou oponência vermelho-verde periférica.
+3. O resultado disso é que, assim como para intensidades de luz detectadas pelos campos receptivos branco-preto, a cor sofre o mesmo efeito espacial, ou seja, cor é um fenômeno *contextual*. É necessário contexto, ou seja, a cor em si e seus arredores, para definir que cor é aquela.
+
+### A Base Neural da Constância de Cor
+
+1. 
 
 
 
